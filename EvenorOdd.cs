@@ -29,5 +29,5 @@ namespace check1
     }
 }
 /*
- * C# Program to Check whether the Entered Number is Even or Odd
+ * C# Program to Check whether the Entered Number is Even or Odd test
  */
